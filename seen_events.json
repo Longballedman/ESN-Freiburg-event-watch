@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "events": {
+    "https://tickets.esn-germany.de/esnfreiburg/karaoke-ws2627/": "ESN Karaoke Night at Berliner Allee",
+    "https://tickets.esn-germany.de/esnfreiburg/trampartyws2627/": "ESN Tram Party: Wrong Occasion",
+    "https://tickets.esn-germany.de/esnfreiburg/artnightws2526-2/": "ESN Painting Night 2",
+    "https://tickets.esn-germany.de/esnfreiburg/specialevent/": "ESN Volunteer Running Dinner/Cocktails (Special Edition)",
+    "https://tickets.esn-germany.de/esnfreiburg/l3knc/": "ESN Ravennaschlucht Christmas Market Hike"
+  }
+}
